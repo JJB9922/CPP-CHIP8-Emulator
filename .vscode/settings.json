@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cstdint": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "chrono": "cpp",
+        "cstring": "cpp",
+        "__locale": "cpp"
+    }
+}

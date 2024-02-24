@@ -1,0 +1,1 @@
+CHIP8::CHIP8() : randGen(std::chrono::system_clock::now().time_since_epoch().count()){

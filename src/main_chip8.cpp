@@ -357,7 +357,7 @@ struct CHIP8 {
     }
 
     void INS_LD_Fx15(){
-        uint8_t Vx = (opcode * 0x0F00u) >> 8u;
+        uint8_t Vx = (opcode & 0x0F00u) >> 8u;
         delayTimer = registers[Vx];
     }
 

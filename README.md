@@ -8,4 +8,4 @@ Emulate CHIP8 w/ CPP for ✨ Learning ✨
 
 Retro:
 
-this is arduous as hell
+this is arduous
